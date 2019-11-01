@@ -1,3 +1,3 @@
 # Movide App
 
-React JS toy project
+React JS toy project!
